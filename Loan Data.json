@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "6355fae2af46cafb59f729e5"
+  },
+  "_Loanid": {
+    "$oid": "6355f91fa0371c54323afde3"
+  },
+  "Loan Number": 1,
+  "Amount": "any",
+  "intres rate": "5",
+  "Account Number": [
+    "Customerid",
+    "Customerid",
+    "Customerid",
+    "Customerid",
+    "Customerid",
+    "Customerid"
+  ],
+  "Loan Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true,
+  "Loan Type": "Education Loan"
+},{
+  "_id": {
+    "$oid": "6355fbffaf46cafb59f8fda0"
+  },
+  "_Loanid": {
+    "$oid": "6355fb2ea0371c54323afde4"
+  },
+  "loan Number": "2",
+  "Amount": "any",
+  "intrest rate": "7-10",
+  "Account Number": [
+    "Customer ID",
+    "Customer ID",
+    "Customer ID"
+  ],
+  "Loan Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true
+},{
+  "_id": {
+    "$oid": "6355fdbaaf46cafb59fbb843"
+  },
+  "_loanid": {
+    "$oid": "6355fceba0371c54323afde5"
+  },
+  "loan Number": "3",
+  "Loan Type": "Car Loan",
+  "Amount": "Any",
+  "intrestrate": "10-13",
+  "Account number": [
+    "Customer Id",
+    "Customer id",
+    "Customer id"
+  ],
+  "Loan Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true
+}]

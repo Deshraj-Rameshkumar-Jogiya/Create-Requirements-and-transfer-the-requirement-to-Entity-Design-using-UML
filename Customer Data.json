@@ -1,0 +1,268 @@
+[{
+  "_id": {
+    "$oid": "6355e84caf46cafb59dada53"
+  },
+  "customername": "Deshraj",
+  "phoneNumber": {
+    "$numberLong": "8155843561"
+  },
+  "address": "Arizona",
+  "loanAmount": 2021,
+  "intrest": 3,
+  "loanTermYears": 7,
+  "loanType": "Eduction Loan",
+  "description": "to Study at ASU",
+  "CreatedDate": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true,
+  "modifiedDate": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6355efddaf46cafb59e61c73"
+  },
+  "customername": "Ishan",
+  "phoneNumber": {
+    "$numberLong": "6822144712"
+  },
+  "address": "Dubai",
+  "loanAmount": 200,
+  "intrest": 7,
+  "loanTermYears": 10,
+  "loanType": "Buisness Loan",
+  "description": "to expand bakery store",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true,
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6355f15baf46cafb59e8cbc7"
+  },
+  "customername": "Umang",
+  "phoneNumber": 1236752014,
+  "address": "Texas",
+  "loanAmount": 910,
+  "intrest": 8,
+  "loanTermYears": 2,
+  "loanType": "Startup Loan",
+  "description": "to boost startup",
+  "CreatedDate": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": false,
+  "ModifiedDate": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6355f1feaf46cafb59e9d99a"
+  },
+  "customername": "Surya",
+  "phoneNumber": {
+    "$numberLong": "7854789631"
+  },
+  "address": "UK",
+  "loanAmount": 170,
+  "intrest": 6,
+  "loanTermYears": 4,
+  "loanType": "Car Loan",
+  "description": "to buy bugati car",
+  "CreatedDate": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "ModifiedDate": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true
+},{
+  "_id": {
+    "$oid": "6355f2f0af46cafb59eb3788"
+  },
+  "customername": "Sohaib",
+  "phoneNumber": 1254789635,
+  "address": "Iran",
+  "loanAmount": 300,
+  "intrest": 2,
+  "loanTermYears": 3,
+  "loanType": "Home Loan",
+  "description": "to buy new home",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": false
+},{
+  "_id": {
+    "$oid": "6355f387af46cafb59ec10d9"
+  },
+  "customername": "Rutvik",
+  "phoneNumber": {
+    "$numberLong": "8745963125"
+  },
+  "address": "Rajkot",
+  "loanAmount": 785,
+  "intrest": 6,
+  "loanTermYears": 8,
+  "loanType": "Industry Loan",
+  "description": "to buy ne equipments for factory",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true
+},{
+  "_id": {
+    "$oid": "6355f544af46cafb59eec8a8"
+  },
+  "customername": "Abhi",
+  "phoneNumber": {
+    "$numberLong": "7854123694"
+  },
+  "address": "Surendranagar",
+  "loanAmount": 500,
+  "intrest": 9,
+  "loanTermYears": 9,
+  "loanType": "Bike Loan",
+  "description": "to buy new racing bike",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": false
+},{
+  "_id": {
+    "$oid": "6355f5daaf46cafb59ef985e"
+  },
+  "customername": "Dripraj",
+  "phoneNumber": {
+    "$numberLong": "4587698580"
+  },
+  "address": "Nepal",
+  "loanAmount": 870,
+  "intrest": 4,
+  "loanTermYears": 6,
+  "loanType": "House Loan",
+  "description": "to renovate farm house",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true
+},{
+  "_id": {
+    "$oid": "6355f6c9af46cafb59f0fbde"
+  },
+  "customername": "Visvaraj",
+  "phoneNumber": {
+    "$numberLong": "5651541254"
+  },
+  "address": "Jesalmer",
+  "loanAmount": 300,
+  "intrest": 4,
+  "loanTermYears": 6,
+  "loanType": "Education Loan",
+  "description": "Tfor Master's Degree",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true
+},{
+  "_id": {
+    "$oid": "6355f751af46cafb59f1ba2f"
+  },
+  "customername": "Kanan",
+  "phoneNumber": 154514842,
+  "address": "Rajasthan",
+  "loanAmount": 2550,
+  "intrest": 10,
+  "loanTermYears": 23,
+  "loanType": "Education Loan",
+  "description": "for Bechelors's Degree",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true
+},{
+  "_id": {
+    "$oid": "6355f7a6af46cafb59f24624"
+  },
+  "customername": "Kavan",
+  "phoneNumber": 883946354,
+  "address": "Katchh",
+  "loanAmount": 2000,
+  "intrest": 8,
+  "loanTermYears": 10,
+  "loanType": "Education Loan",
+  "description": "Tfor Master's Degree",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": false
+}]

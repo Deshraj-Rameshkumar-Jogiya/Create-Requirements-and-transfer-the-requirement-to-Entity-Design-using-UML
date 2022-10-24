@@ -1,0 +1,34 @@
+// MongoDB Playground
+// To disable this template go to Settings | MongoDB | Use Default Template For Playground.
+// Make sure you are connected to enable completions and to be able to run a playground.
+// Use Ctrl+Space inside a snippet or a string literal to trigger completions.
+
+// Select the database to use.
+use('LOANS');
+
+// The drop() command destroys all data from a collection.
+// Make sure you run it against the correct database and collection.
+db.Customer.drop();
+
+// Insert a few documents into the sales collection.
+db.Customer.insertMany([
+  { '_id': 1, 'name': 'Jenil',
+   'first name':'Jenil',
+    'middle name': 'C',
+    'last name': 'Patel',
+    'date of birth': '4/27/2000',
+    'gender': 'Male',
+    'createdDate': new Date ('2022-08-10 T07:00:00.000+00:00'),
+    'modifiedDate': new Date('2022-08-10T07:00:00.000+00:00'),
+    'isDeleted': new Date ('2022-08-10 T07:00:00.000+00:00') },
+  { '_id': 1, 'name': 'Milan', 'first name':'Milan', 'middle name': 'P','last name': 'Soni','date of birth': '2/2/2000','gender': 'Male','createdDate': new Date ('2022-08-10 T07:00:00.000+00:00'),'modifiedDate': new Date('2022-08-10T07:00:00.000+00:00'),'isDeleted': new Date ('2022-08-10 T07:00:00.000+00:00') },
+  { '_id': 2, 'name': 'Ashi', 'first name':'Ashil', 'middle name': 'D','last name': 'Shakh','date of birth': '6/7/2000','gender': 'Male','createdDate': new Date ('2022-08-10 T07:00:00.000+00:00'),'modifiedDate': new Date('2022-08-10T07:00:00.000+00:00'),'isDeleted': new Date ('2022-08-10 T07:00:00.000+00:00') },
+  { '_id': 3, 'name': 'Prit','firstname':'Prit', 'middle name': 'H','last name': 'Patel','date of birth': '1/17/2000','gender': 'Male','createdDate': new Date ('2022-08-10 T07:00:00.000+00:00'),'modifiedDate': new Date('2022-08-10T07:00:00.000+00:00'),'isDeleted': new Date ('2022-08-10 T07:00:00.000+00:00') },
+  { '_id': 4, 'name': 'Ropin', 'first name':'Ropin', 'middle name': 'M','last name': 'Patel','date of birth': '12/6/2000','gender': 'Male','createdDate': new Date ('2022-08-10 T07:00:00.000+00:00'),'modifiedDate': new Date('2022-08-10T07:00:00.000+00:00'),'isDeleted': new Date ('2022-08-10 T07:00:00.000+00:00') },
+  { '_id': 5, 'name': 'Bapu', 'first name':'Bapu', 'middle name': 'B','last name': 'Barad','date of birth': '7/30/2000','gender': 'Male','createdDate': new Date ('2022-08-10 T07:00:00.000+00:00'),'modifiedDate': new Date('2022-08-10T07:00:00.000+00:00'),'isDeleted': new Date ('2022-08-10 T07:00:00.000+00:00') },
+  { '_id': 6, 'name': 'Prithu', 'first name':'Prithu', 'middle name': 'B','last name': 'Chaubay','date of birth': '9/12/2000','gender': 'Male','createdDate': new Date ('2022-08-10 T07:00:00.000+00:00'),'modifiedDate': new Date('2022-08-10T07:00:00.000+00:00'),'isDeleted': new Date ('2022-08-10 T07:00:00.000+00:00') },
+  { '_id': 7, 'name': 'Meet', 'first name':'Meet', 'middle name': 'V','last name': 'Sharma','date of birth': '3/3/2000','gender': 'Male','createdDate': new Date ('2022-08-10 T07:00:00.000+00:00'),'modifiedDate': new Date('2022-08-10T07:00:00.000+00:00'),'isDeleted': new Date ('2022-08-10 T07:00:00.000+00:00') },
+  { '_id': 8, 'name': 'Karina', 'first name':'Karina', 'middle name': 'K','last name': 'Patel','date of birth': '2/4/2000','gender': 'Male','createdDate': new Date ('2022-08-10 T07:00:00.000+00:00'),'modifiedDate': new Date('2022-08-10T07:00:00.000+00:00'),'isDeleted': new Date ('2022-08-10 T07:00:00.000+00:00') },
+]);
+
+

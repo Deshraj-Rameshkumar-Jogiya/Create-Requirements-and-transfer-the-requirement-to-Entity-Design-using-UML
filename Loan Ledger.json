@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "63560a40af46cafb590f5c2e"
+  },
+  "Customerid": {
+    "$oid": "6356097aa0371c54323afde7"
+  },
+  "LoanID": {
+    "$oid": "6356099da0371c54323afde8"
+  },
+  "Accountnumber": "1",
+  "Intrest": 7,
+  "Principle": 2500,
+  "status": false
+},{
+  "_id": {
+    "$oid": "63560a6aaf46cafb590fa91b"
+  },
+  "Customerid": {
+    "$oid": "6356097aa0371c54323afde7"
+  },
+  "LoanID": {
+    "$oid": "6356099da0371c54323afde8"
+  },
+  "Accountnumber": "2",
+  "Intrest": 10,
+  "Principle": 300,
+  "status": false
+},{
+  "_id": {
+    "$oid": "63560a94af46cafb590fe831"
+  },
+  "Customerid": {
+    "$oid": "6356097aa0371c54323afde7"
+  },
+  "LoanID": {
+    "$oid": "6356099da0371c54323afde8"
+  },
+  "Accountnumber": "3",
+  "Intrest": 3,
+  "Principle": 1000,
+  "status": false
+},{
+  "_id": {
+    "$oid": "63560ad3af46cafb5910438d"
+  },
+  "Customerid": {
+    "$oid": "6356097aa0371c54323afde7"
+  },
+  "LoanID": {
+    "$oid": "6356099da0371c54323afde8"
+  },
+  "Accountnumber": "4",
+  "Intrest": 5,
+  "Principle": 1500,
+  "status": false
+},{
+  "_id": {
+    "$oid": "63560af0af46cafb59106f39"
+  },
+  "Customerid": {
+    "$oid": "6356097aa0371c54323afde7"
+  },
+  "LoanID": {
+    "$oid": "6356099da0371c54323afde8"
+  },
+  "Accountnumber": "5",
+  "Intrest": 12,
+  "Principle": 3000,
+  "status": false
+},{
+  "_id": {
+    "$oid": "63560b17af46cafb5910ad60"
+  },
+  "Customerid": {
+    "$oid": "6356097aa0371c54323afde7"
+  },
+  "LoanID": {
+    "$oid": "6356099da0371c54323afde8"
+  },
+  "Accountnumber": "0",
+  "Intrest": 9,
+  "Principle": 250,
+  "status": true
+}]
